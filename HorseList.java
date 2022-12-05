@@ -204,6 +204,8 @@ public static void main(String args[]) {
 			li.register(id,hn,jn);
         }
 
+        
+
         if(choice == 2){
 			System.out.println("-----------Horse details--------------");
 			li.show();
@@ -233,6 +235,9 @@ public static void main(String args[]) {
 		}
     }
     sc.close();
+
+    
     
 }
+
 }
